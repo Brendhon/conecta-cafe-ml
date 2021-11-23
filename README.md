@@ -15,8 +15,7 @@
 <h3 align="center">🚧 Em Desenvolvimento 🚧</h3><br>
 
 ## ☕ Sobre o projeto
-
-Modelo de <i> machine learning </i> criado para a plataforma <b> Conecta Café </b> com o objetivo de reunir compradores de cafés especiais com cafeicultores que possuam <i>fit</i>.
+Projeto criado para a plataforma <b> Conecta Café  </b> com o objetivo de reunir compradores de cafés especiais com cafeicultores que possuam características semelhantes.
 
 ---
 
